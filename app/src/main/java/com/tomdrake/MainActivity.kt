@@ -1,7 +1,8 @@
-package com.example.tomdrake.test
+package com.tomdrake
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.example.tomdrake.portfolio.R
 
 class MainActivity: AppCompatActivity() {
 
